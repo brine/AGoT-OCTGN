@@ -508,5 +508,31 @@
 			<property name="Format"		    value="LCG"/>
 			<property name="Restricted"     value=""/>
 		</card>
+			<card id="1bd5339d-053f-4197-bb87-8058f1768021" name="Brienne of Tarth">
+			<property name="House"          value="Baratheon."/>
+			<property name="Type"           value="Character"/>
+			<property name="Traits"         value="Rainbow Guard. Lady."/>
+			<property name="Text"           value="Brienne of Tarth is considered to have the Knight trait. Limited Response: After Brienne of Tarth kneels, each opponent may move 1 power to your House card from a card he or she controls. Any opponent who does not cannot play event cards this round. (Limit 1 limited response per round.)"/>
+			<property name="Keywords"       value=""/>
+			<property name="Unique"         value=""/>
+			<property name="Cost"           value=""/>
+			<property name="Strength"       value=""/>
+			<property name="Military"       value=""/>
+			<property name="Intrigue"       value=""/>
+			<property name="Power"          value=""/>
+			<property name="Crest"          value=""/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
+			<property name="PlotGoldIncome" value="2"/>
+			<property name="PlotInitiative" value="2"/>
+			<property name="PlotClaim"      value="1"/>
+			<property name="ErrataText"     value=""/>
+			<property name="Enhancement"    value=""/>
+			<property name="Rarity"		    value="F"/>
+			<property name="CardNumber"	    value="2"/>
+			<property name="Format"		    value="LCG"/>
+			<property name="Restricted"     value=""/>
+		</card>
 	</cards>
 </set>
