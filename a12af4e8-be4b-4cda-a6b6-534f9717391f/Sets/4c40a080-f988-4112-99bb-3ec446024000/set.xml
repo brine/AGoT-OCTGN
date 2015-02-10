@@ -1915,7 +1915,7 @@
  		<card id="4c40a080-f988-4112-99bb-3ec446024077" name="Old Intrigues">
  			<property name="House"          value="Neutral."/>
  			<property name="Type"           value="Event"/>
- 			<property name="Traits"         value=""/>
+ 			<property name="Traits"         value="Citadel."/>
  			<property name="Text"           value="Any Phase: Kneel a Maester character to return 1 Citadel event card from your discard pile to your hand. (Limit 1 per phase)"/>
  			<property name="Keywords"       value=""/>
  			<property name="Unique"         value="No"/>

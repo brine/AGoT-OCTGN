@@ -861,7 +861,7 @@
  			<property name="House"          value="Lannister."/>
  			<property name="Type"           value="Event"/>
  			<property name="Traits"         value=""/>
- 			<property name="Text"           value="Response: After a player claims 1 or more power for his or her House. move that power to a Lannister character."/>
+ 			<property name="Text"           value="Response: After a player claims 1 or more power for his or her House. move that power to a [Lannister] character."/>
  			<property name="Keywords"       value="House Lannister only."/>
  			<property name="Unique"         value="No"/>
  			<property name="Cost"           value=""/>
