@@ -2762,7 +2762,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Tully. Army."/>
-			<property name="Text"           value="Blackwood Elite must be chosen for [Military] claim, if able. "/>
+			<property name="Text"           value="Blackwood Elite must be chosen for [MIL] claim, if able. "/>
 			<property name="Keywords"       value="Prized 2. No attachments. Deadly. Renown"/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="3"/>
