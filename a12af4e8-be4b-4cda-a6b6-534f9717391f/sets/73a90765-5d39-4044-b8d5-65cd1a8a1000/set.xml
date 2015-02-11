@@ -1582,6 +1582,7 @@ Challenges: Discard all attachment cards from play. Then, discard the top card o
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Melee."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="63"/>
 			<property name="Format"		    value="LCG"/>

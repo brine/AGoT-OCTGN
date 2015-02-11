@@ -628,6 +628,7 @@
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value="The effect should have the text: &quot;...(Limit 3 times per round.)&quot;"/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="S"/>
 			<property name="CardNumber"	    value="13"/>
 			<property name="Format"		    value="LCG"/>
@@ -4228,7 +4229,6 @@
 			<property name="PlotClaim"      value=""/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
-			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="T"/>
 			<property name="CardNumber"	    value="176"/>
 			<property name="Format"		    value="LCG"/>
