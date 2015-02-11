@@ -629,6 +629,7 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
+			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="25"/>
 			<property name="Format"		    value="LCG"/>
@@ -654,7 +655,6 @@
  			<property name="PlotClaim"      value="1"/>
  			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
-			<property name="Restricted"     value="Joust."/>
 			<property name="Rarity"		    value="F"/>
 			<property name="CardNumber"	    value="26"/>
 			<property name="Format"		    value="LCG"/>
