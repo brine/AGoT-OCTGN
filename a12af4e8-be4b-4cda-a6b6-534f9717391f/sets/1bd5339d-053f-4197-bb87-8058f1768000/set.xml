@@ -902,7 +902,7 @@
 			<property name="House"          value="Targaryen."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Dothraki. Handmaiden. Ally."/>
-			<property name="Text"           value="If Irri would be killed, you may instead attach her to a [Targaryen] character as a Handmaiden attachment with the text, 'Attached character gains a [Power] icon, and does not kneel to attack during [Power] challenges.'"/>
+			<property name="Text"           value="If Irri would be killed, you may instead attach her to a [Targaryen] character as a Handmaiden attachment with the text, 'Attached character gains a [POW] icon, and does not kneel to attack during [POW] challenges.'"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
