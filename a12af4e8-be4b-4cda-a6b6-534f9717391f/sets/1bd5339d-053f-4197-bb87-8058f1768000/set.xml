@@ -1521,8 +1521,8 @@
 			<property name="Restricted"     value=""/>
 		</card>
 		<card id="1bd5339d-053f-4197-bb87-8058f1768060" name="The Withering Cold" size="HorizontalCards">
-			<property name="House"          value="."/>
-			<property name="Type"           value=""/>
+			<property name="House"          value="Neutral."/>
+			<property name="Type"           value="Plot"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="All players skip the standing phase this round."/>
 			<property name="Keywords"       value="Prized 3."/>
@@ -1533,12 +1533,12 @@
 			<property name="Intrigue"       value=""/>
 			<property name="Power"          value=""/>
 			<property name="Crest"          value=""/>
-			<property name="GoldIncome"     value="5"/>
-			<property name="Influence"      value="5"/>
-			<property name="Initiative"     value="1"/>
-			<property name="PlotGoldIncome" value=""/>
-			<property name="PlotInitiative" value=""/>
-			<property name="PlotClaim"      value=""/>
+			<property name="GoldIncome"     value=""/>
+			<property name="Influence"      value=""/>
+			<property name="Initiative"     value=""/>
+			<property name="PlotGoldIncome" value="5"/>
+			<property name="PlotInitiative" value="5"/>
+			<property name="PlotClaim"      value="1"/>
 			<property name="ErrataText"     value=""/>
 			<property name="Enhancement"    value=""/>
 			<property name="Rarity"		    value="F"/>
