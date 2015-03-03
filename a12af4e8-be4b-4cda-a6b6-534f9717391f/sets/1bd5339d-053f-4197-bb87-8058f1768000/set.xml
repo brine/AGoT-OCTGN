@@ -928,7 +928,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Arryn. Bastard."/>
-			<property name="Text"           value="While there is at least 1 Castle plot card revealed, Mya Stone gains: 'Opponent's characters with printed cost 3 or lower cannot be declared alone as attackers.'"/>
+			<property name="Text"           value="While there is at least 1 Castle plot card revealed, Mya Stone gains: &quot;Opponent's characters with printed cost 3 or lower cannot be declared alone as attackers.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
