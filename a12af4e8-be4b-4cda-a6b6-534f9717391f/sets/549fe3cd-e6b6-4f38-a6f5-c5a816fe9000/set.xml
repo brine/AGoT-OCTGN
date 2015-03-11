@@ -2012,7 +2012,7 @@
 		<card id="549fe3cd-e6b6-4f38-a6f5-c5a816fe9081" name="Defenders of the Wall">
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
-			<property name="Traits"         value="Night’s Watch. Army."/>
+			<property name="Traits"         value="Night's Watch. Army."/>
 			<property name="Text"           value="Defenders of the Wall may be declared as a defender during [MIL] challenges initiated against you by players running an agenda even if it is already kneeling."/>
 			<property name="Keywords"       value="No attachments except Weapon."/>
 			<property name="Unique"         value="No"/>
