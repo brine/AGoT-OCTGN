@@ -436,7 +436,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Agenda"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Reduce the cost of the first character with printed cost 4 or higher you play each round by 2. Characters you control with printed cost 4 or higher gain prized 1 while leaving play, and cannot be returned to your hand by your card effects or to pay costs."/>
+			<property name="Text"           value="Reduce the cost of the first character with printed cost 4 or higher you play each round by 2.&#10;&#10;Characters you control with printed cost 4 or higher gain prized 1 while leaving play, and cannot be returned to your hand by your card effects or to pay costs."/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -512,7 +512,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Rainbow Guard. Lady."/>
-			<property name="Text"           value="Brienne of Tarth is considered to have the Knight trait. Limited Response: After Brienne of Tarth kneels, each opponent may move 1 power to your House card from a card he or she controls. Any opponent who does not cannot play event cards this round. (Limit 1 limited response per round.)"/>
+			<property name="Text"           value="Brienne of Tarth is considered to have the Knight trait.&#10;&#10;Limited Response: After Brienne of Tarth kneels, each opponent may move 1 power to your House card from a card he or she controls. Any opponent who does not cannot play event cards this round. (Limit 1 limited response per round.)"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="2"/>
@@ -616,7 +616,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value="House Greyjoy Only."/>
-			<property name="Text"           value="Any Phase: Choose a [Greyjoy] character. That character gets +1 STR until the end of the phase. Dominance: Kneel a Warship location to return Command the Winds from your dead pile to your hand."/>
+			<property name="Text"           value="Any Phase: Choose a [Greyjoy] character. That character gets +1 STR until the end of the phase.&#10;&#10;Dominance: Kneel a Warship location to return Command the Winds from your dead pile to your hand."/>
 			<property name="Keywords"       value="Deathbound."/>
 			<property name="Unique"         value="Infinity"/>
 			<property name="Cost"           value=""/>
@@ -1352,8 +1352,8 @@
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
 			<property name="GoldIncome"     value=""/>
-			<property name="Influence"      value=""/>
-			<property name="Initiative"     value="X"/>
+			<property name="Influence"      value="X"/>
+			<property name="Initiative"     value=""/>
 			<property name="PlotGoldIncome" value=""/>
 			<property name="PlotInitiative" value=""/>
 			<property name="PlotClaim"      value=""/>
@@ -1654,7 +1654,7 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
-			<property name="Text"           value="Play only if you have won 2 or more unopposed challenges this phase. Challenges: Choose and discard 1 character and 1 location, each with printed cost 3 or lower, from play."/>
+			<property name="Text"           value="Play only if you have won 2 or more unopposed challenges this phase.&#10;&#10;Challenges: Choose and discard 1 character and 1 location, each with printed cost 3 or lower, from play."/>
 			<property name="Keywords"       value="House Greyjoy only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value=""/>
@@ -1680,7 +1680,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="Clansman. Army."/>
-			<property name="Text"           value="Reduce the cost to play The Mountain Clan Horde by 1 for each Clansman character you control. Any Phase: Discard a card from your hand to stand or kneel another Clansman character. (Limit once per phase.)"/>
+			<property name="Text"           value="Reduce the cost to play The Mountain Clan Horde by 1 for each Clansman character you control.&#10;&#10;Any Phase: Discard a card from your hand to stand or kneel another Clansman character. (Limit once per phase.)"/>
 			<property name="Keywords"       value="No attachments."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="8"/>
@@ -1810,7 +1810,7 @@
 			<property name="House"          value="Stark."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Arryn. Bastard."/>
-			<property name="Text"           value="If you control Sansa Stark, discard Alayne Stone from play. Response: After Alayne Stone enters play, choose a Castle plot card in your used pile. Reveal it as your new plot card."/>
+			<property name="Text"           value="If you control Sansa Stark, discard Alayne Stone from play.&#10;&#10;Response: After Alayne Stone enters play, choose a Castle plot card in your used pile. Reveal it as your new plot card."/>
 			<property name="Keywords"       value="House Stark only."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="3"/>
@@ -1966,7 +1966,7 @@
 			<property name="House"          value="Neutral."/>
 			<property name="Type"           value="Character"/>
 			<property name="Traits"         value="House Arryn. Lord."/>
-			<property name="Text"           value="If you control Littlefinger, discard Petyr Baelish from play. Limited Response: Kneel Petyr Baelish to cancel the effects of an event card just played. (Limit 1 limited response per round.)"/>
+			<property name="Text"           value="If you control Littlefinger, discard Petyr Baelish from play.&#10;&#10;Limited Response: Kneel Petyr Baelish to cancel the effects of an event card just played. (Limit 1 limited response per round.)"/>
 			<property name="Keywords"       value="Stealth."/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="4"/>
@@ -2076,7 +2076,7 @@
 			<property name="Cost"           value="3"/>
 			<property name="Strength"       value="3"/>
 			<property name="Military"       value="1"/>
-			<property name="Intrigue"       value=""/>
+			<property name="Intrigue"       value="1"/>
 			<property name="Power"          value="1"/>
 			<property name="Crest"          value=""/>
 			<property name="GoldIncome"     value=""/>
@@ -2122,7 +2122,7 @@
 			<property name="House"          value="Baratheon."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Condition."/>
-			<property name="Text"           value="Response: After After attached character is declared as an attacker against you, claim 3 power for your House."/>
+			<property name="Text"           value="Attach to an opponent’s character.&#10;&#10;Response: After attached character is declared as an attacker against you, claim 3 power for your House"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="0"/>
@@ -2174,8 +2174,8 @@
 			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Item."/>
-			<property name="Text"           value="[Greyjoy] character only.&#10;&#10;Attached character gets +1 STR and gains intimidate."/>
-			<property name="Keywords"       value="Setup."/>
+			<property name="Text"           value="Attached character gets +1 STR and gains intimidate."/>
+			<property name="Keywords"       value="Setup. [Greyjoy] Character only."/>
 			<property name="Unique"         value="No"/>
 			<property name="Cost"           value="1"/>
 			<property name="Strength"       value=""/>
@@ -2197,7 +2197,7 @@
 			<property name="Restricted"     value=""/>
 		</card>
 		<card id="1bd5339d-053f-4197-bb87-8058f1768086" name="Reborn from the Sea">
-			<property name="House"          value="Neutral."/>
+			<property name="House"          value="Greyjoy."/>
 			<property name="Type"           value="Event"/>
 			<property name="Traits"         value=""/>
 			<property name="Text"           value="Response: After you win dominance, choose a non-Army [Greyjoy] character in your dead pile and put it into play."/>
@@ -2252,7 +2252,7 @@
 			<property name="House"          value="Lannister."/>
 			<property name="Type"           value="Attachment"/>
 			<property name="Traits"         value="Decree."/>
-			<property name="Text"           value="Attach to your House card.&#10;&#10;If you are not running an agenda, Sign of the Red Hand gains: “Increase your draw cap by 1.”"/>
+			<property name="Text"           value="Attach to your House card.&#10;&#10;If you are not running an agenda, Sign of the Red Hand gains: &quot;Increase your draw cap by 1.&quot;"/>
 			<property name="Keywords"       value=""/>
 			<property name="Unique"         value="Yes"/>
 			<property name="Cost"           value="1"/>
